@@ -1,0 +1,40 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #222;
+  background: #f4f6f8;
+}
+
+body > header {
+  padding: 20px;
+  background: #172554;
+  color: white;
+}
+
+nav a {
+  margin-right: 16px;
+  color: white;
+}
+
+main {
+  max-width: 900px;
+  margin: 24px auto;
+  padding: 24px;
+  background: white;
+}
+
+h1,
+h2 {
+  line-height: 1.2;
+}
+
+footer {
+  padding: 20px;
+  text-align: center;
+}
